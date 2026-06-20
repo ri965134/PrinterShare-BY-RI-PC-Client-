@@ -1,4 +1,5 @@
 # 🖨️ PrinterShare BY RI - PC Client
+*Created by [Rahil Islam](https://github.com/ri965134)*
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
 ![Format](https://img.shields.io/badge/Format-Portable%20(.exe)-success)
@@ -35,5 +36,5 @@ This software does not require installation. Just download and run!
 * **Companion App:** Requires the PrinterShare BY RI Android application download from Play Store.
 
 ---
-**Developed by:** Rahil Islam 
+**Developed by:** [Rahil Islam](https://github.com/ri965134)  
 **Tags:** Remote Printing, Android to PC Print, Wireless Printer Client, Windows Print Server, Portable Print Software.
